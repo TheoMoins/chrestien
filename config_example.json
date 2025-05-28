@@ -1,0 +1,18 @@
+{
+  "paths": "../data/xml/nowordnoelisions/train/*",
+  "format": "tei",
+
+  "sampling": {
+    "enabled": true,
+    "units": "verses",
+    "sample_size": 300
+  },
+  
+  "features": [
+    {
+      "type": "met_syll",
+      "n": 13,
+      "culling": 10
+    }
+  ]
+}

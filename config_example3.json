@@ -1,0 +1,25 @@
+{
+  "paths": "../data/xml/nowordnoelisions/train/*",
+  "format": "tei",
+
+  "sampling": {
+    "enabled": true,
+    "units": "verses",
+    "sample_size": 300
+  },
+  
+  "features": [
+    {
+      "type": "met",
+      "n": 13,
+      "culling": 10
+    },
+    {
+      "type": "words",
+      "n": 1,
+      "k": 1000,
+      "feat_list": "../data/function_words_old-french_of3c.json",
+      "freq_type": "relative"
+    }
+  ]
+}
