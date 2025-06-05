@@ -1,7 +1,3 @@
-Chrestien project
-Collective project of the computational philology course at Ecole nationale des chartes - PSL Univerisity - academic year 2023-2024, Florian Cafiero & Jean-Baptiste Camps.
+Material of the project : Metric Annotation and Stylometry of Chrétien de Troyes and Contemporaries
 
-
-* Txt folder
-
-Contains the various texts of the corpus in [...] format. 
+Collective project of the computational philology course at Ecole nationale des chartes - PSL Univerisity - academic year 2024-2025, Florian Cafiero & Jean-Baptiste Camps.
